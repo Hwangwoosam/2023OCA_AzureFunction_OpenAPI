@@ -2,7 +2,7 @@
   "profiles": {
     "_2023OCA_AzureFunction_OpenAPI": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7165",
+      "commandLineArgs": "--port 7210",
       "launchBrowser": false
     }
   }
